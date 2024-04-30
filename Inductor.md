@@ -1,0 +1,2 @@
+A [[Solenoid]]. Inductors resist change in current. Inductors have a property called [[inductance]].
+A good analogy for an inductor is a flywheel, where angular inertia represents resistance to current change.
