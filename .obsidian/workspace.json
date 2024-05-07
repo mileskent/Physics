@@ -11,8 +11,13 @@
             "id": "2cf358a882217805",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ampère's Law.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ampère's Law.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ampère's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ampère's Law.md"
+              }
             }
           }
         ]
@@ -140,38 +149,40 @@
   },
   "active": "2cf358a882217805",
   "lastOpenFiles": [
-    "RLC Circuit.md",
-    "Reactance.md",
+    "Maxwell's Equations.md",
+    "Ampère's Law.md",
+    "Ampère's Law With Maxwell's Addition.md",
+    "Faraday's Law.md",
+    "Maxwell-Faraday Equation.md",
+    "LC Series DC Circuit.md",
+    "LRC Series DC Circuit.md",
+    "LRC Series AC Circuit.md",
+    "RL Series DC Circuit.md",
+    "Solenoid.md",
+    "Common Cases of Ampère's Law.md",
+    "Inductor.md",
+    "Inductance.md",
     "Temp/Question.md",
+    "Reactance.md",
     "Flux.md",
     "Pasted image 20240430124959.png",
     "Pasted image 20240430125020.png",
     "Pasted image 20240430124945.png",
     "Pasted image 20240430124757.png",
-    "Ampère's Law.md",
     "Images",
     "Impedence.md",
-    "Ampère's Law With Maxwell's Addition.md",
     "Electromagnetism.md",
     "Gauss' Law for Magnetism.md",
     "Electromagnetism",
     "Temp",
-    "Maxwell-Faraday Equation.md",
-    "Maxwell's Equations.md",
-    "Faraday's Law.md",
-    "inductance.md",
     "EMF.md",
-    "Common Cases of Ampère's Law.md",
     "Biot-Savart Law.md",
-    "Inductor.md",
-    "Solenoid.md",
     "Gauss' Law.md",
     "line integral.md",
     "closed loop line integral.md",
     "singular.md",
     "preamble.sty",
     "2024-04-29.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

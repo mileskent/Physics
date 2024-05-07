@@ -4,9 +4,10 @@ Accordingly, a [[Solenoid]] with $N$ total turns will have an EMF $N$ times as l
 $$\mathcal{E} = -N\frac{d \Phi_B}{dt}$$
 Of a rotating loop with $N$ total turns and angular velocity $\omega$:
 $$\mathcal{E} = -N\frac{d \Phi_{B}}{dt} = NBA \omega sin(\omega t)$$
-Of a rectangular current loop with one side of length $L$ that is moving at velocity $v$ right such that the loop is growing, in a uniform magnetic field into the page.
-$$\mathcal{E} = vBL$$
+
+
 ## Stationary Faraday's Law
-If the surface is not changing with time:
+If the path is stationary:
 $$\oint \vec{E} \cdot d \vec{l} = -\frac{d \Phi_B}{dt}$$
-The right hand side of the equation is a special case of the right hand side of the [[Maxwell-Faraday Equation]] for 
+Inside a [[Solenoid]]:
+$$\oint \vec{E} \cdot d \vec{l} = -\frac{dB}{dt}A = -\mu_{0}n \frac{dI}{dt} A$$

@@ -1,5 +1,4 @@
+The differential form of this particular one of [[Maxwell's Equations]].
+$$\nabla \times E = -\frac{\partial B}{\partial t}$$
 
-A more general form of [[Faraday's Law]].
-$$\oint \vec{E} \cdot d\vec{l} = -\frac{d}{dt}\iint_{S} \vec{B} \cdot d \vec{S}$$
-#todo Is it a partial or a derivative for the right hand side?
-
+When the surface is not changing with time you can use [[Faraday's Law]].
