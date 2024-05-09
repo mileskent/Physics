@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ampère's Law.md",
-                "mode": "preview",
+                "file": "Faraday's Law.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ampère's Law.md",
+                "file": "Faraday's Law.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ampère's Law.md",
+                "file": "Faraday's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ampère's Law.md"
+                "file": "Faraday's Law.md"
               }
             }
           }
@@ -149,19 +149,21 @@
   },
   "active": "2cf358a882217805",
   "lastOpenFiles": [
-    "Maxwell's Equations.md",
-    "Ampère's Law.md",
-    "Ampère's Law With Maxwell's Addition.md",
+    "EMF.md",
     "Faraday's Law.md",
+    "Electromagnetic Waves.md",
+    "Inductance.md",
+    "Inductor.md",
+    "Solenoid.md",
+    "RL Series DC Circuit.md",
+    "Ampère's Law.md",
+    "Maxwell's Equations.md",
+    "Ampère's Law With Maxwell's Addition.md",
     "Maxwell-Faraday Equation.md",
     "LC Series DC Circuit.md",
     "LRC Series DC Circuit.md",
     "LRC Series AC Circuit.md",
-    "RL Series DC Circuit.md",
-    "Solenoid.md",
     "Common Cases of Ampère's Law.md",
-    "Inductor.md",
-    "Inductance.md",
     "Temp/Question.md",
     "Reactance.md",
     "Flux.md",
@@ -175,14 +177,12 @@
     "Gauss' Law for Magnetism.md",
     "Electromagnetism",
     "Temp",
-    "EMF.md",
     "Biot-Savart Law.md",
     "Gauss' Law.md",
     "line integral.md",
     "closed loop line integral.md",
     "singular.md",
     "preamble.sty",
-    "2024-04-29.md",
     "Untitled.canvas"
   ]
 }
