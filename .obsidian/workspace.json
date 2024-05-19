@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5758d17f49a5ed26",
+        "id": "4c66e48726724856",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf358a882217805",
+            "id": "799155c78ab27e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faraday's Law.md",
+                "file": "Maxwell-Faraday Equation.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faraday's Law.md",
+                "file": "Maxwell-Faraday Equation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faraday's Law.md",
+                "file": "Maxwell-Faraday Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faraday's Law.md"
+                "file": "Maxwell-Faraday Equation.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,41 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cf358a882217805",
+  "active": "799155c78ab27e7c",
   "lastOpenFiles": [
-    "EMF.md",
+    "Maxwell's Equations.md",
+    "Speed of Light.md",
+    "Untitled.md",
+    "Gauss' Law for Electricity.md",
+    "Maxwell-Faraday Equation.md",
+    "Gauss' Law for Magnetism.md",
+    "Ampère's Law With Maxwell's Addition.md",
     "Faraday's Law.md",
+    "Ampère's Law.md",
+    "LRC Series AC Circuit.md",
+    "Energy in Driven Circuit Elements.md",
+    "Poynting Vector.md",
     "Electromagnetic Waves.md",
+    "InstantaneousPoyntingVector_logo-919756307.gif",
+    "Electromagneticwave3D.gif",
+    "Pasted image 20240509135002.png",
+    "Pasted image 20240430125020.png",
+    "Pasted image 20240430124959.png",
+    "Pasted image 20240430124945.png",
+    "Pasted image 20240430124757.png",
+    "Pasted image 20240509134925.png",
+    "EMF.md",
     "Inductance.md",
     "Inductor.md",
     "Solenoid.md",
     "RL Series DC Circuit.md",
-    "Ampère's Law.md",
-    "Maxwell's Equations.md",
-    "Ampère's Law With Maxwell's Addition.md",
-    "Maxwell-Faraday Equation.md",
     "LC Series DC Circuit.md",
     "LRC Series DC Circuit.md",
-    "LRC Series AC Circuit.md",
     "Common Cases of Ampère's Law.md",
     "Temp/Question.md",
     "Reactance.md",
     "Flux.md",
-    "Pasted image 20240430124959.png",
-    "Pasted image 20240430125020.png",
-    "Pasted image 20240430124945.png",
-    "Pasted image 20240430124757.png",
     "Images",
     "Impedence.md",
     "Electromagnetism.md",
-    "Gauss' Law for Magnetism.md",
     "Electromagnetism",
     "Temp",
-    "Biot-Savart Law.md",
-    "Gauss' Law.md",
-    "line integral.md",
-    "closed loop line integral.md",
-    "singular.md",
     "preamble.sty",
     "Untitled.canvas"
   ]
