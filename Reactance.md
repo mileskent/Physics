@@ -1,1 +1,1 @@
-#todo 
+[Wiki](https://en.wikipedia.org/wiki/Electrical_reactance)
