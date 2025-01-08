@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "facab18319004fcc",
+        "id": "9372d162052567a7",
         "type": "tabs",
         "children": [
           {
-            "id": "05b80bae76d6aaee",
+            "id": "e410ba8fcbc40567",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maxwell-Faraday Equation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Maxwell-Faraday Equation"
+              "title": "New tab"
             }
           }
         ]
@@ -53,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -160,37 +155,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05b80bae76d6aaee",
+  "active": "e410ba8fcbc40567",
   "lastOpenFiles": [
-    "Poynting Vector.md",
-    "Maxwell's Equations.md",
-    "Maxwell-Faraday Equation.md",
-    "Flux.md",
-    "Faraday's Law.md",
+    "General Relativity.md",
+    "Einstein's Field Equations.md",
+    "Special Relativity.md",
+    "Event Horizon.md",
+    "Critical Density.md",
+    "Spacetime.md",
+    "Fourier Analysis.md",
+    "Fundamental Forces.md",
+    "Wavicle.md",
+    "Heisenberg Uncertainty Principle.md",
+    "Fourier Transform.md",
+    "Fourier Series.md",
+    "2 Slit Experiment.md",
+    "Schrödinger Wave Equation.md",
+    "Light.md",
+    "Inductor.md",
+    "Electromagnetism.md",
+    "Electromagnetic Waves.md",
+    "1-8-25 Todo.md",
+    "Photon.md",
+    "Photoelectric Effect.md",
+    "Quantum Mechanics.md",
+    "Lorentz Transformations.md",
+    "Diffraction.md",
+    "Untitled.md",
+    "Planck's Constant.md",
+    "1/8",
+    "1",
     "res/Pasted image 20240430124959.png",
     "res/Electromagneticwave3D.gif",
     "res",
     "res/InstantaneousPoyntingVector_logo-919756307.gif",
-    "Inductor.md",
-    "LRC Series DC Circuit.md",
-    "LRC Series AC Circuit.md",
-    "LC Series DC Circuit.md",
-    "Inductance.md",
-    "Impedance.md",
-    "Gauss' Law for Magnetism.md",
-    "Gauss' Law for Electricity.md",
-    "Reactance.md",
-    "Energy in Driven Circuit Elements.md",
-    "EMF.md",
-    "Electromagnetism.md",
-    "Electromagnetic Waves.md",
-    "Common Cases of Ampère's Law.md",
-    "Biot-Savart Law.md",
-    "Ampère's Law With Maxwell's Addition.md",
-    "Ampère's Law.md",
-    "Solenoid.md",
-    "Speed of Light.md",
-    "Untitled.md",
     "res/Pasted image 20240509135002.png",
     "res/Pasted image 20240430125020.png",
     "res/Pasted image 20240430124945.png",
