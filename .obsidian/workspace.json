@@ -11,10 +11,15 @@
             "id": "e410ba8fcbc40567",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Waves - Temp Jan 13.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Waves - Temp Jan 13"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,6 +162,7 @@
   },
   "active": "e410ba8fcbc40567",
   "lastOpenFiles": [
+    "Waves - Temp Jan 13.md",
     "General Relativity.md",
     "Einstein's Field Equations.md",
     "Special Relativity.md",
@@ -182,7 +188,6 @@
     "Lorentz Transformations.md",
     "Diffraction.md",
     "Untitled.md",
-    "Planck's Constant.md",
     "1/8",
     "1",
     "res/Pasted image 20240430124959.png",
