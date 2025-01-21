@@ -17,26 +17,46 @@ $f(x, t) = Acos([k(x - vt) - \theta])$
 ##### Spatial Quantities 
 * wavelength $\lambda$
 * wave number $\kappa$
+	* $\kappa = \frac{1}{\lambda} - \frac{k}{2 \pi}$
+* k vector magnitude
+	* $k = \frac{2\pi}{\lambda}$
 
 ##### Temporal Quantities 
 * period $\tau$
 * angular frequency $\omega$
+	* $\omega = 2 \pi \nu = \frac{2\pi}{\tau}$
+	* Maybe: $\omega = vk$, under Harmonic Wave Solutions to the Wave Equation
 * cyclical frequency $\nu$
+	* $\nu = f = \frac{1}{\tau} = \frac{\omega}{2 \pi}$
 
+	
 Phase velocity
-$v = \frac{\lambda}{\tau}$
+$v = \frac{\lambda}{\tau} = \lambda \nu = \frac{\omega}{k}$
 
 Phase of a wave is everything inside the cosine
 $f(x, t) = A \cos \phi$ where $\phi(x, t) = kx - \omega t - \theta$
 more stuff here
-instantaneous freq
+### instantaneous freq
+* $f(x, t) = A \cos{(\phi (x, t))}$
+* $\phi(x, t) = kx - \omega t - \theta$
+* $\omega (t) = - \frac{\partial\phi}{\partial t}$	
+Also
+* $k(x) = \frac{\partial \phi}{\partial x}$
 
-pulse frequency
+### Pulse frequency
+![[Pasted image 20250120201001.png|300]]
+* Phase
+	* $\phi(x, t) = kx - \omega_{0} t - \alpha t^2$
+* Instantaneous frequency
+	* $\omega (t) = - \frac{\partial \phi}{\partial t} = \omega_{0} + 2 \alpha t$
+### Delay
+The delay a wave experiences after progated a distance
+$T = \frac{d}{v}$
+### Phase Delay
+The difference in phase before and after moving a distance
+$\Delta \phi = kd = \omega T$
 
-phase delays $T = \frac{d}{v}$
-$\Delta \phi = kd = \dots\dots\dots\dots..$
-
-Taylor series
+### Taylor series and Approximations
 $\exp x \approx 1 + x$
 .................
 
