@@ -1,7 +1,7 @@
 #todo Go back and rewatch lecture
 only writing down topics
 
-### Wave Equation
+### [[Wave Equation]]
 Restoring force = $\gamma \frac{\partial^2 f}{\partial x^2}$
 #todo missed content, wave equation, explanation
 
@@ -52,7 +52,7 @@ Also
 ### Delay
 The delay a wave experiences after progated a distance
 $T = \frac{d}{v}$
-### Phase Delay
+### [[Phase Delay]]
 The difference in phase before and after moving a distance
 $\Delta \phi = kd = \omega T$
 

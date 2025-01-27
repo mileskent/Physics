@@ -1,0 +1,1 @@
+Can create a [[Standing Wave]]

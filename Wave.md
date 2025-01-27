@@ -1,0 +1,6 @@
+[[Wave Equation]]
+[[Standing Wave]]
+[[Light]]
+[[Electromagnetic Wave]]
+[[Wavicle]]
+[[Plane Wave]]

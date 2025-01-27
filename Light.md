@@ -5,3 +5,5 @@ Does not need a medium.
 See [[Photoelectric Effect]]
 See [[Speed of Light]]
 See [[Poynting Vector]]
+See [[Electromagnetic Wave]]
+See [[Electromagnetism]]
