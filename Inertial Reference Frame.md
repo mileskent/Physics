@@ -1,0 +1,1 @@
+A nonaccelerated frame of reference.

@@ -1,9 +1,10 @@
-#wip
-Does not need a medium.
-#todo In addition to being a wave, light is a particle.
-#todo [[Photon]]
-See [[Photoelectric Effect]]
-See [[Speed of Light]]
-See [[Poynting Vector]]
-See [[Electromagnetic Wave]]
-See [[Electromagnetism]]
+Does not need a medium to propogate.
+In addition to being a wave, light is a particle--a [[Wavicle]]
+
+#### See Also
+[[Photon]]
+[[Photoelectric Effect]]
+[[Speed of Light]]
+[[Poynting Vector]]
+[[Electromagnetic Wave]]
+[[Electromagnetism]]

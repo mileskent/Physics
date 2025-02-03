@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "861911245cf88a43",
+        "id": "c95570449375a7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d3da6e67c58f53",
+            "id": "26a719f18119cb63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Speed of Light.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Speed of Light"
             }
           }
         ]
@@ -158,9 +163,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d3da6e67c58f53",
+  "active": "26a719f18119cb63",
   "lastOpenFiles": [
+    "Inertial Reference Frame.md",
+    "Speed of Light.md",
     "Lorentz Transformation.md",
+    "Lorentz Contraction.md",
+    "Untitled.md",
+    "Special Relativity.md",
+    "Time Dilation.md",
+    "Michelson-Morley Experiment.md",
+    "Pasted image 20250203153719.png",
+    "Maxwell's Equations.md",
+    "Einstein's Postulates.md",
+    "Galilean Transformation.md",
+    "Pasted image 20250203151948.png",
+    "Phase Delay.md",
+    "Michelson Interferometer.md",
+    "Light.md",
+    "Astronomical Abberation.md",
+    "Pasted image 20250203150530.png",
+    "Relativistic Momentum.md",
+    "Relativistic Energy.md",
+    "Huygen's Principle.md",
+    "Fresnel Diffraction.md",
     "2 Slit Experiment.md",
     "Pasted image 20250203142220.png",
     "Pasted image 20250203142042.png",
@@ -173,29 +199,8 @@
     "Scale Theorem.md",
     "Uncertainty Principle.md",
     "Fourier Transform.md",
-    "sinc.md",
-    "2D Fourier Transform.md",
-    "Fresnel Diffraction.md",
-    "Spherical Wave.md",
-    "Huygen's Principle.md",
-    "Wavelet.md",
-    "Plane Wave.md",
-    "Laser.md",
-    "Edge Diffraction.md",
-    "Interference Fringe.md",
     "Pasted image 20250203130701.png",
-    "Crossed Beams.md",
-    "Fringe Spacing.md",
     "Pasted image 20250203130218.png",
-    "Pasted image 20250203130205.png",
-    "Wave.md",
-    "res/wavelets.gif",
-    "res/16486201f63e5059f9f3aa7a50e8dd3c.gif",
-    "Poynting Vector.md",
-    "Diffraction Grating.md",
-    "Wavicle.md",
-    "Elementary Particle.md",
-    "Anticolor.md",
     "1/8",
     "1",
     "res",
