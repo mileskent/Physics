@@ -20,7 +20,6 @@ $f(x, t) = Acos([k(x - vt) - \theta])$
 	* $\kappa = \frac{1}{\lambda} - \frac{k}{2 \pi}$
 * k vector magnitude
 	* $k = \frac{2\pi}{\lambda}$
-
 ##### Temporal Quantities 
 * period $\tau$
 * angular frequency $\omega$

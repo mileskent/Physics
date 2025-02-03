@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bee1caf64634296",
+        "id": "ca8e5591ac1c0625",
         "type": "tabs",
         "children": [
           {
-            "id": "fe48ad95f8cd0a78",
+            "id": "38e0090594235eb4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b74f3c315bab4f94",
@@ -157,37 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe48ad95f8cd0a78",
+  "active": "38e0090594235eb4",
   "lastOpenFiles": [
-    "Diffraction Grating.md",
-    "Absorption Spectroscopy.md",
-    "Pasted image 20250127153038.png",
+    "2D Fourier Transform.md",
+    "Lecture 2 - Waves - Temp.md",
     "Wave.md",
-    "Wavelength.md",
-    "Plane Wave.md",
-    "Pulse.md",
-    "2 Slit Experiment.md",
-    "Diffraction.md",
-    "Poynting Vector.md",
-    "Irradiance.md",
-    "Inductor.md",
-    "Impedance.md",
-    "Group Velocity.md",
-    "Light.md",
-    "Maxwell-Faraday Equation.md",
-    "Optical Density.md",
+    "Standing Wave.md",
+    "Phase Delay.md",
+    "Frequency.md",
     "Optical Period.md",
+    "Plane Wave.md",
+    "Wave Equation.md",
+    "Schrödinger Wave Equation.md",
+    "Fourier Transform.md",
+    "Uncertainty Principle.md",
+    "Pulse.md",
+    "Spectrum.md",
+    "Shift Theorem.md",
+    "Scale Theorem.md",
+    "Gaussian.md",
+    "Modulation Theorem.md",
+    "Fourier Series.md",
+    "Fourier Analysis.md",
+    "Fourier Cosine Series.md",
+    "Even Function.md",
+    "Fourier Sine Series.md",
+    "Voltage.md",
+    "Potential.md",
+    "Resistance.md",
+    "Pasted image 20250127153038.png",
     "res/littlewavepackets-2455986298.gif",
     "Pasted image 20250127152507.png",
-    "Phase Velocity.md",
-    "Phase Delay.md",
-    "Lecture 3 - Absorption - Temp.md",
-    "Beat.md",
-    "Michelson Interferometer.md",
-    "sinc(x).md",
-    "Vacuum Permeability.md",
-    "Vacuum Permittivity.md",
-    "Absorption.md",
     "Pasted image 20250120201001.png",
     "1/8",
     "1",
