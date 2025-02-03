@@ -4,10 +4,10 @@ Seperates light into its component wavelengths through the process of diffractio
 * See [[Absorption Spectroscopy]]
 ![[Pasted image 20250127153038.png]]
 Construcive coherent intereference occurs if 
-$$\Large
+$$
 k(AB - CD) = 2(m \in \mathbb{Z})\pi
 $$
 #### Diffraction Grating Equation
-$$\Large
+$$
 a(\sin(\theta_{m}) - \sin(\theta_{i})) = m \lambda
 $$

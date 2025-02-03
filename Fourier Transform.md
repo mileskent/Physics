@@ -4,6 +4,7 @@ Allows us to quantitivatively define the [[Spectrum]] of a [[Wave]]
 A [[Gaussian]]'s transform is another Gaussian.
 * Frequency is conjugate to time
 * Spatial frequency is conjugate to position
+Anytime the Fourier Transform is involved, so is the [[Scale Theorem]], and the [[Uncertainty Principle]]
 ##### Equation
 $$
 F(\omega) = \int^{\infty}_{{-\infty}} f(t)\ e^{-i \omega t} dt
@@ -103,6 +104,7 @@ If the original function is uppercase:
 > \text{sinc}\left( \frac{\omega}{2} \right)
 > \end{align} \\
 > $$
+See [[sinc]] for more info
 
 ### Fourier Transform of the Complex Conjugate of a Function
 $$

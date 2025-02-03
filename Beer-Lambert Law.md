@@ -1,5 +1,4 @@
 $$
-\large
 I(z) = I_{0} e^{-\alpha z}
 $$
 $\alpha$ : [[Absorption Coefficient]]

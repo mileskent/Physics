@@ -1,5 +1,5 @@
 In one dimension
-$$\Large
+$$
 f_{tt} = \gamma f_{xx}
 $$
 

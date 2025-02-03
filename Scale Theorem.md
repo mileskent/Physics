@@ -4,3 +4,4 @@ $$
 $$
 
 Implies that the shorter the [[Pulse]] of a [[Wave]], the broader the [[Spectrum]]
+Implies [[Uncertainty Principle]]
