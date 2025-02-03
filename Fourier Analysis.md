@@ -1,3 +1,2 @@
-#wip
-See [[Fourier Series]]
-See [[Fourier Transform]]
+* [[Fourier Series]]
+* [[Fourier Transform]]

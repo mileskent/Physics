@@ -11,10 +11,10 @@
             "id": "38e0090594235eb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "active": "38e0090594235eb4",
   "lastOpenFiles": [
+    "Fourier Analysis.md",
     "2D Fourier Transform.md",
     "Lecture 2 - Waves - Temp.md",
     "Wave.md",
@@ -180,7 +181,6 @@
     "Gaussian.md",
     "Modulation Theorem.md",
     "Fourier Series.md",
-    "Fourier Analysis.md",
     "Fourier Cosine Series.md",
     "Even Function.md",
     "Fourier Sine Series.md",
