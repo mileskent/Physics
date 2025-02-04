@@ -1,10 +1,35 @@
 Also called "Length Contraction", "Lorentz-FitzGerald Contradition"
-See [[Lorentz Transformation]] for the full set of equations
-#### Equation
-The length in the direction of motion $L$ is contracted by a factor of 
+* Only occurs for the length in the direction of the velocity, not those perpindular to it.
+* Is a reciprocal/symmetric effect just like [[Time Dilation]]
+
+
+> [!tip] Why Contraction?
+
+$K$ is the stationary reference frame, while $K'$ is the one is relative motion.
+We want the length measured from $K'$ in terms of the [[Proper Length]]
+
+$L_{0}$ is the [[Proper Length]] given by $\Delta x$
+$L'$ is given by $\Delta x'$, measured from $K'$ by 2 observers simulateously -> $\Delta t' = 0$
+Because we are given the $K'$ relevant information we use the inverse
 $$
-\sqrt{ 1 - \frac{v^2}{c^2} }
+\begin{align}
+\Delta x = \gamma (\Delta x' - v \Delta t') \\
+L_{0} = \gamma(L' - 0) \\
+L' = \frac{1}{\gamma} L_{0}
+\end{align}
 $$
+
+> [!info]- Extra Info
+> The length in the direction of motion $L$ is contracted by a factor of 
+> $$
+> \sqrt{ 1 - \frac{v^2}{c^2} }
+> $$
+> called the **Lorentz Factor**, which is just $\frac{1}{\gamma}$
+
 #### Origin 
 * Explanation of [[Michelson-Morley Experiment]]
 * Einstein's exploration of simplifying [[Maxwell's Equations]] under [[Galilean Transformation]], publishing [[Special Relativity]]
+
+#### See Also
+[[Proper Length]]
+[[Lorentz Transformation]]

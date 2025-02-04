@@ -17,3 +17,5 @@ x'_{t} = x_{t} - v_{\text{frame}} \quad v' = v - v_{\text{frame}}
 $$
 Vectorized relative transformation follows same idea.
 Can also calculate the inverse transformation easily.
+
+Is at odds with [[Maxwell's Equations]]
