@@ -27,6 +27,12 @@ Each measurement involves its own special conditions.
 		* (really they could be anything, but they don't strictly need to be equal)
 	* Must use [[Lorentz Transformation|Inverse Lorentz Transformation]]
 	
+
+### Relativistic Velocity Addition
+Note that it's imposibble to achieve the [[Speed of Light]]
+See Star Trek reference in [Special Relativity Lecture No. 2](https://www.frog.gatech.edu)
+![[Pasted image 20250204221647.png|400]]
+* Particle interactions that emit [[Photon|Photons]] do not affect the speed of the photons, which is constant at the [[Speed of Light]]
 #### See Also
 [[Time Dilation]]
 [[Lorentz Contraction]]
