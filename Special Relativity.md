@@ -1,4 +1,4 @@
-A theory by Einstein to fix the messiness of [[Maxwell's Equations]] in moving [[Inertial Reference Frame]]s under [[Galilean Transformation]]s.
+A theory by Einstein to fix the messiness of [[Maxwell's Equations]] in moving [[Inertial Reference Frame]]s under [[Galilean Transformation]]s, i.e. [[Lorentz Transformation]]s
 
 > [!Abstract]
 > * [[Light]] does not require a medium
@@ -19,6 +19,6 @@ A theory by Einstein to fix the messiness of [[Maxwell's Equations]] in moving [
 * Explains [[Michelson-Morley Experiment]] null results
 * [[Time Dilation]]
 	* Contradicts [[Galilean Transformation]] shared time
-* [[Lorentz Contraction]]
+* [[Length Contraction]]
 * [[Relativistic Momentum]]
 * [[Relativistic Energy]]

@@ -1,8 +1,10 @@
 The shortest measurement for an event is always shortest for a stationary observer at the location of the event -> [[Proper Time]].
+* Very related to [[Length Contraction]]
 * 2 Trains on different routes, i.e. Northbound vs Southbound: 
 	* the clock on the wall in your own cabin is always proper time because your clock is stationary from your reference point. 
 	* Meanwhile, the clock in the train that is passing you is never proper time because it's moving from your perspective and thus its time is dilated.
 	* From the perspective of a passenger on the other train, they view the situation reciprocally, where their clock is proper time and yours is dilated
+	* Neither observer's frame is preferred and therefore both perspectives are different
 	* To be clear only *relative* velocity is important here
 
 From [[Lorentz Transformation]]

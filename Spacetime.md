@@ -1,8 +1,8 @@
 Space (3D) $\times$ Time (1D) -> 4 Dimensional Spacetime
 
-Minkowski Diagram
+[[Minkowski Diagram]]
 Light has a slope of 1
-Worldlines
-Light cone
+[[Worldline]]
+[[Light Cone]]
 [[Spacetime Metric]]
 [[Spacetime Interval]]

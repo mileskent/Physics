@@ -1,6 +1,6 @@
 #### Conclusion
 Aether doesn't exist.
-Differences in theoretical measurements fail to account for [[Lorentz Contraction]]
+Differences in theoretical measurements fail to account for [[Length Contraction]]
 Also explained by [[Special Relativity]]
 #### The Experiment
 

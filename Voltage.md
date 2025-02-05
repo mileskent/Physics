@@ -1,1 +1,1 @@
-Difference in Electrical Potential.
+Difference in [[Electrical Potential]].
