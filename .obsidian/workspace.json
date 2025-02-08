@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "58a40b73e86715af",
+        "id": "1086cf0f6f74bb94",
         "type": "tabs",
         "children": [
           {
-            "id": "8d129ff0dbeecbec",
+            "id": "b7c20763482e909a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spacetime.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Spacetime"
+              "title": "New tab"
             }
           }
         ]
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Inst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,38 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d129ff0dbeecbec",
+  "active": "b7c20763482e909a",
   "lastOpenFiles": [
-    "Light Cone.md",
-    "Spacetime.md",
-    "Wave Equation.md",
-    "Special Relativity.md",
-    "Minkowski Diagram.md",
-    "Worldline.md",
-    "Lorentz Transformation.md",
-    "Voltage.md",
-    "Electrical Potential.md",
-    "Absorption Spectroscopy.md",
+    "Fraunhofer Diffraction.md",
+    "Fresnel Diffraction.md",
+    "Spherical Wave.md",
+    "Spectrum.md",
     "Angular Frequency.md",
+    "Scale Theorem.md",
+    "Shift Theorem.md",
+    "Fourier Transform.md",
+    "Gaussian.md",
+    "Fourier Series.md",
+    "Wave.md",
+    "Crossed Beams.md",
+    "Michelson Interferometer.md",
+    "K Vector.md",
+    "Fringe Spacing.md",
+    "Interference Fringe.md",
+    "Interference.md",
+    "Michelson-Morley Experiment.md",
+    "Standing Wave.md",
+    "Phase Velocity.md",
+    "Wavelength.md",
+    "Uncertainty Principle.md",
+    "Boundary Condition.md",
+    "Wave Equation.md",
+    "Pulse.md",
+    "Effective Pulse Length.md",
     "res/Pasted image 20250203130205.png",
     "res/Pasted image 20250203130701.png",
     "res/Pasted image 20250203130218.png",
-    "Muon Neutrino.md",
-    "2 Slit Experiment.md",
-    "Muon.md",
-    "Elementary Boson.md",
-    "Scalar Boson.md",
-    "Gauge Boson.md",
-    "Elementary Particle.md",
-    "Elementary Fermion.md",
-    "Quark.md",
-    "Lepton.md",
-    "Length Contraction.md",
-    "Mass Energy Equivalence.md",
-    "Time Dilation.md",
-    "Simultaneity.md",
     "res/Pasted image 20250205155319.png",
-    "Spacetime Interval.md",
     "res/Pasted image 20250204221647.png",
     "res/Pasted image 20250203153719.png",
     "res/Pasted image 20250203151948.png",

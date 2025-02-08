@@ -40,7 +40,7 @@ See [[2D Fourier Transform]], [[Fourier Transform]]
 > $$
 > 
 
-
+	
 #### Examples
 > [!Example]- Fraunhofer Diffraction from a Slit
 > Fraunhofer Diffraction from a slit is just the [[Fourier Transform]] of the $\text{rect}$ function, which is the [[sinc]] function. The [[Irradiance]] is $\text{sinc}^2$

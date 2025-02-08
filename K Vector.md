@@ -5,3 +5,4 @@ For instantaneous frequency:
 $$
 k(x) = \frac{\partial \phi}{\partial x}
 $$
+c

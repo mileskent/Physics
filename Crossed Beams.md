@@ -9,3 +9,6 @@ $$
 \implies I(x, t) \propto 4I_{0} \cos^2(kx \sin \theta) = 2I_{0}(1 + \cos(2kx\sin \theta))
 $$
 * [[Fringe Spacing]], $\Lambda$
+
+#### See Also
+[[Michelson Interferometer]]/[[Michelson-Morley Experiment]]

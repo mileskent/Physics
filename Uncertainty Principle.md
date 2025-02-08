@@ -1,4 +1,4 @@
-The product of a function's widths in the time domain ($\Delta t$) and the frequency domain ($\Delta \nu$) must be greater than ~1
+The product of a function's widths in the time domain ($\Delta t$) and the frequency domain (spectral width) ($\Delta \nu$) must be greater than ~1
 * From the [[Scale Theorem]]: the shorter a [[Pulse]] in time, the broader the spectrum, and vice versa
 	$\implies$ Cannot have a short pulse that is monochromatic
 * Not inherent to [[Quantum Mechanics]], but to [[Wave]]s

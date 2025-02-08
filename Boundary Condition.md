@@ -3,7 +3,8 @@ In all wave problems a differential [[Wave Equation]] what shapes the waves coul
 #### 1 Dimension
 * e.g. the ends of a guitar string
 * waves with a Boundary Condition have discrete frequencies: 
-	* $\frac{2L}{n \in \mathbb{N^+}}$
+	* $\lambda(k) = \frac{2L}{k \in \mathbb{N^+}}$
+	* Fundamental $\lambda_{0} = 2L$
 
 #### 2 Dimensions
 * e.g. a drum has a circular Boundary Condition
