@@ -1,4 +1,3 @@
-
 Observing another reference frame in relative motion, objects will appear contracted.
 
 * Only occurs for the length in the direction of the velocity, not those perpindular to it.
@@ -26,10 +25,11 @@ Observing another reference frame in relative motion, objects will appear contra
 >  $$
 >  \sqrt{ 1 - \frac{v^2}{c^2} }
 >  $$
->  called the **Lorentz Factor**, which is just $\frac{1}{\gamma}$
+>  See [[Lorentz Factor]] for more on that
 > 3. Is an explanation of [[Michelson-Morley Experiment]]
 > 4.  Originated from Einstein's exploration of simplifying [[Maxwell's Equations]] under [[Galilean Transformation]], publishing [[Special Relativity]]
 > 
 #### See Also
 [[Proper Length]]
+[[Lorentz Factor]]
 [[Lorentz Transformation]]
