@@ -33,10 +33,11 @@ Implies that ordering of events depends on the observer
 	Due to the symmetrical nature of [[Special Relativity]], from one frame, there is [[Time Dilation]], but from the other there is [[Length Contraction]]. Therefore, they are two ways of describing the same effect
 
 ### Relativistic Velocity Addition
-Note that it's imposibble to achieve the [[Speed of Light]]
+Note that it's impossible to achieve the [[Speed of Light]]
 See Star Trek reference in [Special Relativity Lecture No. 2](https://www.frog.gatech.edu)
 ![[Pasted image 20250204221647.png|400]]
 * Particle interactions that emit [[Photon|Photons]] do not affect the speed of the photons, which is constant at the [[Speed of Light]]
+* ![[Pasted image 20250220152202.png]]
 #### See Also
 [[Time Dilation]]
 [[Length Contraction]]

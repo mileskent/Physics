@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1086cf0f6f74bb94",
+        "id": "9a924be48125a32a",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c20763482e909a",
+            "id": "c9a3d3c7b91657f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inst",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7c20763482e909a",
+  "active": "c9a3d3c7b91657f3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Simultaneity.md",
     "Lorentz Transformation.md",
     "Lorentz Factor.md",
@@ -173,6 +173,25 @@
     "coordinate time.md",
     "Special Relativity.md",
     "Pion.md",
+=======
+    "Kirchhoff's Rules.md",
+    "Cross Product.md",
+    "Electromagnetism.md",
+    "Relativistic Energy.md",
+    "Length Contraction.md",
+    "Special Relativity.md",
+    "Electrostatics.md",
+    "Electron Volt.md",
+    "Volt.md",
+    "Relativistic Momentum.md",
+    "Relativistic Force.md",
+    "Relativistic Doppler Effect.md",
+    "Relativistic Abberation.md",
+    "Time Dilation.md",
+    "Lecture 2 - Waves - Unorganized.md",
+    "Lorentz Transformation.md",
+    "Pasted image 20250220152202.png",
+>>>>>>> f37487f (Thu Feb 20 17:58:40 EST 2025)
     "Fraunhofer Diffraction.md",
     "Fresnel Diffraction.md",
     "Spherical Wave.md",
@@ -183,6 +202,7 @@
     "Fourier Transform.md",
     "Gaussian.md",
     "Fourier Series.md",
+<<<<<<< HEAD
     "Wave.md",
     "Crossed Beams.md",
     "Michelson Interferometer.md",
@@ -192,6 +212,8 @@
     "Interference.md",
     "Michelson-Morley Experiment.md",
     "Standing Wave.md",
+=======
+>>>>>>> f37487f (Thu Feb 20 17:58:40 EST 2025)
     "res/Pasted image 20250203130205.png",
     "res/Pasted image 20250203130701.png",
     "res/Pasted image 20250203130218.png",
@@ -201,7 +223,6 @@
     "res/Pasted image 20250203151948.png",
     "res/Pasted image 20250203150530.png",
     "res/Pasted image 20250203142220.png",
-    "res/Pasted image 20250203142042.png",
     "1/8",
     "1",
     "res",
