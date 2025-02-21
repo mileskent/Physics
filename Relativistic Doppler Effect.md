@@ -22,3 +22,5 @@ $$
 = \nu_{0} \frac{\sqrt{1- \frac{\text{v}^2}{c^2} }}{1 + \cos(\theta)\frac{v}{c}}
 \approx \left(\nu_{0} \frac{1 - \frac{1}{2} \frac{\text{v}^2}{c^2}}{1 + \cos(\theta)\frac{v}{c}} \quad \theta \not \approx 90^{\circ},\ \text{v} \not \approx c \right)
 $$
+* Use $\beta = \frac{v}{c}$ as > 0 when the source and receiver are receding from each other (red shift to lower frequency \[this is the current signs for $\beta$\])
+* Use $\beta = \frac{v}{c}$ as < 0 when the source and receiver are approaching each other (blue shift to higher frequency)

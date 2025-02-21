@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "f93c338ea4b0d633",
+    "id": "ae669cecc41e58ea",
     "type": "split",
     "children": [
       {
-        "id": "9a924be48125a32a",
+        "id": "9f9bffd11abe1f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a3d3c7b91657f3",
+            "id": "781dcf29910acb6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lorentz Transformation.md",
+                "file": "Relativistic Energy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lorentz Transformation"
+              "title": "Relativistic Energy"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d84a28b203e251f",
+    "id": "cc074e82f062e3ac",
     "type": "split",
     "children": [
       {
-        "id": "fec4723ca54afa4f",
+        "id": "5af596aa4c7a6cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "2a805dec70894ecf",
+            "id": "2364b3125edb51ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "0333ef26fc4e422d",
+            "id": "e4b9c85ff0f48664",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\lambda}{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "89c22405f1fdb842",
+            "id": "269b95a428c34d99",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,73 +75,82 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b74f3c315bab4f94",
+    "id": "c40f40425bdbf59f",
     "type": "split",
     "children": [
       {
-        "id": "e16028b29253446a",
+        "id": "3e6f883ee00adb23",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0a49a76535ef53",
+            "id": "827254779a2e09f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flux.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Relativistic Energy.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flux"
+              "title": "Backlinks for Relativistic Energy"
             }
           },
           {
-            "id": "33ca1c0f65260d42",
+            "id": "c0132ab394e46be2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Relativistic Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Relativistic Energy"
             }
           },
           {
-            "id": "d3a6d593aa628806",
+            "id": "5ed9eeeb5819a65b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "fcb305380138f5f6",
+            "id": "1e5204d3d4fb8d15",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Relativistic Energy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Relativistic Energy"
             }
           }
         ]
@@ -153,83 +162,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c9a3d3c7b91657f3",
+  "active": "781dcf29910acb6c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Simultaneity.md",
-    "Lorentz Transformation.md",
-    "Lorentz Factor.md",
-    "Length Contraction.md",
-    "coordinate time.md",
-    "Special Relativity.md",
-    "Pion.md",
-=======
-    "Kirchhoff's Rules.md",
-    "Cross Product.md",
-    "Electromagnetism.md",
-    "Relativistic Energy.md",
-    "Length Contraction.md",
-    "Special Relativity.md",
-    "Electrostatics.md",
-    "Electron Volt.md",
-    "Volt.md",
-    "Relativistic Momentum.md",
-    "Relativistic Force.md",
-    "Relativistic Doppler Effect.md",
-    "Relativistic Abberation.md",
-    "Time Dilation.md",
-    "Lecture 2 - Waves - Unorganized.md",
-    "Lorentz Transformation.md",
-    "Pasted image 20250220152202.png",
->>>>>>> f37487f (Thu Feb 20 17:58:40 EST 2025)
-    "Fraunhofer Diffraction.md",
-    "Fresnel Diffraction.md",
-    "Spherical Wave.md",
-    "Spectrum.md",
-    "Angular Frequency.md",
-    "Scale Theorem.md",
-    "Shift Theorem.md",
-    "Fourier Transform.md",
-    "Gaussian.md",
-    "Fourier Series.md",
-<<<<<<< HEAD
     "Wave.md",
-    "Crossed Beams.md",
-    "Michelson Interferometer.md",
-    "K Vector.md",
-    "Fringe Spacing.md",
-    "Interference Fringe.md",
-    "Interference.md",
-    "Michelson-Morley Experiment.md",
-    "Standing Wave.md",
-=======
->>>>>>> f37487f (Thu Feb 20 17:58:40 EST 2025)
-    "res/Pasted image 20250203130205.png",
-    "res/Pasted image 20250203130701.png",
-    "res/Pasted image 20250203130218.png",
-    "res/Pasted image 20250205155319.png",
-    "res/Pasted image 20250204221647.png",
-    "res/Pasted image 20250203153719.png",
-    "res/Pasted image 20250203151948.png",
-    "res/Pasted image 20250203150530.png",
-    "res/Pasted image 20250203142220.png",
-    "1/8",
-    "1",
-    "res",
-    "Images",
-    "Electromagnetism",
-    "Temp",
-    "preamble.sty",
-    "Untitled.canvas"
+    "Relativistic Doppler Effect.md",
+    "Planck's Radiation Law.md",
+    "Relativistic Energy.md",
+    "Special Relativity.md",
+    "Relativistic Momentum.md",
+    "Photon.md",
+    "Compton Effect.md",
+    "Lorentz Transformation.md",
+    "Electromagnetism.md"
   ]
 }
