@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9bffd11abe1f7d",
+        "id": "c17f394f6e5332d5",
         "type": "tabs",
         "children": [
           {
-            "id": "781dcf29910acb6c",
+            "id": "a96bcca844a2db33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relativistic Energy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Relativistic Energy"
+              "title": "New tab"
             }
           }
         ]
@@ -80,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c40f40425bdbf59f",
@@ -172,17 +168,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "781dcf29910acb6c",
+  "active": "a96bcca844a2db33",
   "lastOpenFiles": [
     "Wave.md",
-    "Relativistic Doppler Effect.md",
-    "Planck's Radiation Law.md",
-    "Relativistic Energy.md",
+    "Lorentz Transformation.md",
+    "Separation of Variables.md",
+    "Schrödinger Wave Equation.md",
     "Special Relativity.md",
+    "Relativistic Doppler Effect.md",
+    "Relativistic Energy.md",
+    "Planck's Radiation Law.md",
     "Relativistic Momentum.md",
     "Photon.md",
     "Compton Effect.md",
-    "Lorentz Transformation.md",
     "Electromagnetism.md"
   ]
 }
