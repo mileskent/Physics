@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c17f394f6e5332d5",
+        "id": "f21eda53da2fd2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a96bcca844a2db33",
+            "id": "b990a371799db628",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,8 +168,20 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "a96bcca844a2db33",
+  "active": "b990a371799db628",
   "lastOpenFiles": [
+    "Compton Effect.md",
+    "Radioactivity.md",
+    "Pair Production.md",
+    "Pair Annihilation.md",
+    "Positron.md",
+    "Blackbody Radiation.md",
+    "Photoelectric Effect.md",
+    "Pasted image 20250302215224.png",
+    "Planck's Radiation Law.md",
+    "Rayleigh-Jeans Formula.md",
+    "Pasted image 20250302214933.png",
+    "Balmer Series.md",
     "Wave.md",
     "Lorentz Transformation.md",
     "Separation of Variables.md",
@@ -177,10 +189,8 @@
     "Special Relativity.md",
     "Relativistic Doppler Effect.md",
     "Relativistic Energy.md",
-    "Planck's Radiation Law.md",
     "Relativistic Momentum.md",
     "Photon.md",
-    "Compton Effect.md",
     "Electromagnetism.md"
   ]
 }

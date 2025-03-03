@@ -1,0 +1,1 @@
+An [[Electron]] and [[Positron]] can collide, and annihilate one another. They decay into two opposite direction photons, in empty space to conserve momentum, or if there is matter that transfers energy, then it could be a single photon. See electron and positron mutual orbiting structure is called [Positronium](https://en.wikipedia.org/wiki/Positronium)
