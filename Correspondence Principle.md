@@ -1,0 +1,1 @@
+In this limit where classic and quantum theories should agree, the quantum theory must reduce to the classical result.
