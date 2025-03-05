@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "788251c70ab02bd3",
+        "id": "2912e4f75d5b4c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "9572ee43c6c9e8a5",
+            "id": "d9bcfb86932d52e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bohr Model.md",
+                "file": "Planck constant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bohr Model"
+              "title": "Planck constant"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "h\\nu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c40f40425bdbf59f",
@@ -172,11 +172,29 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "9572ee43c6c9e8a5",
+  "active": "d9bcfb86932d52e4",
   "lastOpenFiles": [
-    "Correspondence Principle.md",
-    "Fine Structure Constant.md",
+    "Relativistic Momentum.md",
+    "Planck's Constant.md",
+    "Planck constant.md",
+    "Planck's Radiation Law.md",
+    "Irradiance.md",
+    "Fraunhofer Diffraction.md",
+    "Fresnel Diffraction.md",
+    "Spherical Wave.md",
+    "Poynting Vector.md",
+    "Lecture 2 - Waves - Unorganized.md",
+    "Fourier Sine Series.md",
+    "Fourier Cosine Series.md",
+    "Kronecker Delta Function.md",
+    "Common Cases of Ampère's Law.md",
+    "Elementary Fermion.md",
+    "Positron.md",
+    "Electron.md",
+    "Magnet.md",
     "Bohr Model.md",
+    "Fine Structure Constant.md",
+    "Correspondence Principle.md",
     "Spectral Lines.md",
     "Pasted image 20250302220954.png",
     "Pasted image 20250302220950.png",
@@ -185,24 +203,7 @@
     "Compton Effect.md",
     "Radioactivity.md",
     "Pair Production.md",
-    "Pair Annihilation.md",
-    "Positron.md",
-    "Blackbody Radiation.md",
-    "Photoelectric Effect.md",
     "Pasted image 20250302215224.png",
-    "Planck's Radiation Law.md",
-    "Rayleigh-Jeans Formula.md",
-    "Pasted image 20250302214933.png",
-    "Balmer Series.md",
-    "Wave.md",
-    "Lorentz Transformation.md",
-    "Separation of Variables.md",
-    "Schrödinger Wave Equation.md",
-    "Special Relativity.md",
-    "Relativistic Doppler Effect.md",
-    "Relativistic Energy.md",
-    "Relativistic Momentum.md",
-    "Photon.md",
-    "Electromagnetism.md"
+    "Pasted image 20250302214933.png"
   ]
 }
