@@ -1,6 +1,6 @@
 $$c = \frac{1}{\sqrt{\mu_{0}\epsilon_0}}$$
 > [!info]- The Speed of Light is Constant
-Constancy of the speed of light is incompatible with [[Galilean Transformation|Galilean Transformations]], because they predict that speed of light varies depending on the [[Inertial Reference Frame]]
+Constancy of the speed of [[Light]] is incompatible with [[Galilean Transformation|Galilean Transformations]], because they predict that speed of light varies depending on the [[Inertial Reference Frame]]
 > 
 > Firstly, from an [[Electromagnetism|Electromagnetics]] perspective $c$ can be derived from [[Maxwell's Equations]], assuming an [[Inertial Reference Frame]]
 > 

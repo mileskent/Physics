@@ -7,3 +7,4 @@ Based on this he perfectly models [[Blackbody Radiation]]
 $$
 S(\lambda, T) = \frac{2\pi c^2h}{\lambda^5} \frac{1}{e^{hc/\lambda kT} - 1}
 $$
+where $h$ is the [[Planck constant]]
