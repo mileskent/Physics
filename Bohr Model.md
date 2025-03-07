@@ -37,7 +37,7 @@ Can be used to derive the [[Rydberg Equation]]
 Assumes that the nucleus has infinite mass. In reality, the nucleus wobbles with the motion of the electron. In order to account for this motion, use the reduced mass of the electron
 ###### Bohr Reduced Mass of Electron
 $$
-\mu_{e} = \frac{{m_{e}}}{1 + \frac{m_{e}}{M_n}}
+\mu_{e} = \frac{{m_{e}}}{1 + \frac{m_{e}}{M_n}} = \frac{1}{\frac{1}{m_{e}+\frac{1}{M_{n}}}}
 $$
 **Only works for Hydrogen atoms and other single electron atoms**
 
