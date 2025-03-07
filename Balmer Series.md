@@ -3,3 +3,7 @@ $$
 \quad\quad \text{where } k = 3, 4, 5,\ \dots
 $$
 Formula for the wavelengths of the visible Hydrogen Line [[Spectral Lines|Spectra]] in nanometers
+
+#### See Also
+[[Spectral Lines]]
+[[Rydberg Equation]]

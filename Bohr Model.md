@@ -17,11 +17,11 @@ r_{n} = n^2 a_{0}
 \quad
 \text{where}\ a_{0} = \frac{4\pi\epsilon_{0}\hbar^2}{me^2}
 $$
-$a_{0}$ is called the *Bohr radius*, which is 1/2 the diameter of the Hydrogen atom in its lowest energy state.
+$a_{0}$ is called the *Bohr radius*, which is the radius of the Hydrogen atom in its lowest energy state.
 
 More specifically 
 $$
-(v_{\text{electron}})_{n} = \frac{n\hbar}{mr_{n}} = \frac{1}{n} \frac{e^2}{4\pi \epsilon_{0} \hbar}
+(v_{\text{electron}})_{n} = \frac{n\hbar}{mr_{n}} = \frac{1}{n} \frac{e^2}{4\pi \epsilon_{0} \hbar} = \frac{1}{n}\ c\ \alpha
 $$
 See [[Fine Structure Constant]]
 
@@ -31,10 +31,11 @@ h \nu = E_{u} - E_{l}
 $$
 where $\nu$ is the frequency of the emitted photon
 
-Can be used to derive the Rydberg Equation
+Can be used to derive the [[Rydberg Equation]]
 
 #### Limits
 Assumes that the nucleus has infinite mass. In reality, the nucleus wobbles with the motion of the electron. In order to account for this motion, use the reduced mass of the electron
+###### Bohr Reduced Mass of Electron
 $$
 \mu_{e} = \frac{{m_{e}}}{1 + \frac{m_{e}}{M_n}}
 $$

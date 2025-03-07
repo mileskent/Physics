@@ -10,4 +10,5 @@ Absorption Spectrum with Absorbtion Lines
 ![[Pasted image 20250302220954.png]]
 
 #### See Also
-[Rydberg Equation](https://en.wikipedia.org/wiki/Rydberg_formula)
+[[Balmer Series]]
+[[Rydberg Equation]]

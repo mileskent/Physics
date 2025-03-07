@@ -7,3 +7,4 @@ Pressure is measured in Pascals and is force per unit area.
 $$
 \text{Pressure} = \frac{F}{A} = \frac{dp}{dt} \frac{1}{A} = \frac{I}{c}
 $$
+For a perfectly reflective surface, the pressure is twice this amount.
