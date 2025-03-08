@@ -11,3 +11,4 @@ $$p = \frac{E}{c} = \frac{h\nu}{c} = \frac{h}{\lambda} = \hbar k$$
 
 #### See Also
 [[Relativistic Energy]]
+[[de Broglie Equation]]

@@ -1,2 +1,0 @@
-#todo 
-See [[Uncertainty Principle]]

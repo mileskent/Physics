@@ -38,3 +38,19 @@ Also:
 $$
 \Delta \omega_{\text{rms}} \Delta t_{\text{rms}} \geq \frac{1}{2}
 $$
+
+
+For functions of $x$ and $k$
+$$
+\Delta k \Delta x \geq \frac{1}{2}
+$$
+
+#### Heisenberg's Uncertainty Principle for Momentum and Position
+$$
+\Delta p \Delta x \geq \frac{\hbar}{2}
+$$
+
+#### Heisenberg's Uncertainy Principle for Energy and Time
+$$
+\Delta E \Delta t \geq \frac{\hbar}{2}
+$$
