@@ -25,3 +25,7 @@ See [[Dirac Notation]]
 * [[Uncertainty Principle]]
 * [[Observer Effect]]
 * State is usually unknown
+Note [[Einstein-Podolsky-Rosen Paradox]]
+
+### See also
+[[Entanglement]]

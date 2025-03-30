@@ -48,7 +48,7 @@ $$
 $$
 Possible values of $\hat{L}$ are functions of $l$ such that $L = \sqrt{l(l+1)  }\ \hbar$
 Disagrees with [[Bohr Model]] angular momentum. Implies [[Electron]] motion is more like a vibration than it is a planetary orbit.
-Also note that $L_{z} = m_{l} \hbar$, and the $x$ and $y$ components are not observable, as they are not calculable, even though they exist. See [[Schrödinger Wave Equation for Hydrogen Atom#Quantum Numbers|Quantum Numbers]].
+Also note that $L_{z} = m_{l} \hbar$, and the $x$ and $y$ components are not observable, as they are not calculable, even though they exist. See [[Schrödinger Wave Equation for Hydrogen Atom#Quantum Numbers|Quantum Numbers]]. Except for $l = 0$, when $L = 0$ so the x and y components are 0.
 
 ##### Total energy operator
 $$

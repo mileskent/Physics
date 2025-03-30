@@ -6,6 +6,7 @@ $$
 The entire expression $\langle \psi\ | \ g\ |\ \psi \rangle$ is called the "bracket"
  $\langle \psi|$ is called the "bra"
  $| \psi \rangle$ is called the "ket"
+ * Use kets to represent [[Entanglement|the probabilisitc state of a particle]]
 
 * For example, the expected position $x$ is $\langle \psi\ | \ x\ |\ \psi \rangle$
 * To include time dependence: $\langle g(x, t) \rangle = \langle \Psi\ | \ g(x, t)\ |\ \Psi \rangle$

@@ -4,40 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "f287c7995007a4a8",
+        "id": "5ee10bf7e9f18f97",
         "type": "tabs",
         "children": [
           {
-            "id": "e98d350aafda765a",
+            "id": "a9cb29fdfc4e00e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaussian.md",
+                "file": "Observer Effect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gaussian"
+              "title": "Observer Effect"
             }
           },
           {
-            "id": "84667cfc88ae3151",
+            "id": "222bab4989ef8bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fourier Analysis.md",
+                "file": "Spin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fourier Analysis"
+              "title": "Spin"
+            }
+          },
+          {
+            "id": "9774f6e99927ce47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entanglement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Entanglement"
+            }
+          },
+          {
+            "id": "43f2fc819fe9ea35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Einstein-Podolsky-Rosen Paradox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Einstein-Podolsky-Rosen Paradox"
+            }
+          },
+          {
+            "id": "9d992ebaad2a1083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dirac Notation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Dirac Notation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,8 +115,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gaus",
-                "matchingCase": false,
+                "query": "\\Psi = ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -95,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c40f40425bdbf59f",
@@ -187,8 +234,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e98d350aafda765a",
+  "active": "43f2fc819fe9ea35",
   "lastOpenFiles": [
+    "Entanglement.md",
+    "Dirac Notation.md",
+    "Quantum Mechanics.md",
+    "Spin.md",
+    "Observer Effect.md",
+    "Einstein-Podolsky-Rosen Paradox.md",
+    "Einstein's Field Equations.md",
+    "Operator.md",
+    "Generalized Observer Effect.md",
     "Fourier Analysis.md",
     "Gaussian.md",
     "Fourier Transform.md",
@@ -206,12 +262,6 @@
     "Fourier Cosine Series.md",
     "Even Function.md",
     "Light.md",
-    "Zeeman Effect.md",
-    "Up.md",
-    "Superpositions of Quantum States.md",
-    "Spin.md",
-    "Schrödinger Wave Equation for Hydrogen Atom.md",
-    "Probability Distribution Functions.md",
     "Pasted image 20250330032954.png",
     "Pasted image 20250330032742.png",
     "Pasted image 20250330032651.png",
@@ -221,9 +271,6 @@
     "Pasted image 20250328002522.png",
     "Pasted image 20250328001551.png",
     "Pasted image 20250327233905.png",
-    "Pasted image 20250327232858.png",
-    "Particle in a Box.md",
-    "Operator.md",
-    "Observer Effect.md"
+    "Pasted image 20250327232858.png"
   ]
 }
