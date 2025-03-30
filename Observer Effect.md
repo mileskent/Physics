@@ -1,0 +1,1 @@
+Observing a [[Quantum Mechanics|Quantum]] particle changes its state because we are smacking it with a [[Photon]] or interacting with it in some other way such that it loses its original state. For example [[Operator#Angular Momentum Operator|angular momentum]] would be changed through observation.

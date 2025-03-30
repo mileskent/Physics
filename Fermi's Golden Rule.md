@@ -2,3 +2,4 @@
 ![[Pasted image 20250328003201.png]]
 ### See also
 [[Electron]]
+[[Dirac Notation]]
