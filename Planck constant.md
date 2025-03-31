@@ -1,5 +1,10 @@
+
 $$
-6.62607015 \times 10^{−34} \quad \text{joule seconds}
+h = 6.62607015 \times 10^{−34} \quad \text{joule seconds}
+$$
+### Reduced Planck Constant
+$$
+\hbar = \frac{h}{2\pi}
 $$
 
 #### See Also
