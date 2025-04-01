@@ -1,3 +1,4 @@
+of the [[Atom]]
 1. Electrons reside in *stationary states* and do *not* radiate energy. They have well-defined energies: $E_{n}$ where $n \in\mathbb{Z}^+$
 	Transitions can occur between them yielding light of energy: $E = E_{n} - E_{n'} = h \nu$
 	where $E_{n} < E_{n'}$ is aborption and $E_{n} > E_{n'}$ is emission
@@ -34,7 +35,7 @@ where $\nu$ is the frequency of the emitted photon
 Can be used to derive the [[Rydberg Equation]]
 
 #### Limits
-Assumes that the nucleus has infinite mass. In reality, the nucleus wobbles with the motion of the electron. In order to account for this motion, use the reduced mass of the electron
+Assumes that the nucleus has infinite mass. In reality, the nucleus wobbles with the motion of the [[Electron]]. In order to account for this motion, use the reduced mass of the electron
 ###### Bohr Reduced Mass of Electron
 $$
 \mu_{e} = \frac{{m_{e}}}{1 + \frac{m_{e}}{M_n}} = \frac{m_{e}M_{n}}{m_{e} + M_{n}}
