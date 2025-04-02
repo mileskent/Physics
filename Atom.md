@@ -40,7 +40,8 @@ See [[Quantum Number#NL Shorthand|NL Shorthand]] for meaning of lowercase letter
 [[Electron|Electrons]] filling according to their energy, which does not strictly follow the value of $n$.
 ![[Pasted image 20250401161124.png|300]]
 ### Closed Shells and Subshells
-Spherically symmetric electron probability distributions. Have the most compact electron distributions and so are also the most stable and most difficult to ionize. Accordingly, electrons with one more electron than a close shell have the opposite properties.
+* Spherically symmetric (closed-shell) electron probability distributions have the most compact electron distributions and so are also the most stable and most difficult to ionize. 
+* Accordingly, electrons with one more electron than a closed shell have the opposite properties, i.e. it is volatile, easy to ionize, and easy to bond with in a [[Molecule]]
 
 ### Spin-Orbit Coupling
 ![[Pasted image 20250401161837.png|200]]
@@ -62,3 +63,4 @@ The nucleus can also have spin: $I$
 The total angular momentum including nuclear spin is designated by $F$
 ### See also
 [[Quantum Number]]
+[[Stimulated Emission]]

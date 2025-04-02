@@ -1,3 +1,6 @@
 {
-  "accentColor": "#4d6aff"
+  "accentColor": "#4d6aff",
+  "enabledCssSnippets": [
+    "centerimages"
+  ]
 }
