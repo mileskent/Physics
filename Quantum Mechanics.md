@@ -1,4 +1,4 @@
-### Quantum Mechanical Wave Functions
+### Quantum Mechanical [[Wave]] Functions
 I understand this mathematically but not conceptually, in terms of the [[Wave Equation]]
 ![[Pasted image 20250330020233.png|500]]
 ### Expectation Value

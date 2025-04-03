@@ -1,5 +1,5 @@
 - Used for solving Schrodinger's Equation for molecules.
-- Because electronsa are so much light and their resulting motion so mfaster than that of the nuclei
+- Because electrons are so much light and their resulting motion so mfaster than that of the nuclei
 - Quantum mechanical computations for the electron wave functions can assume that the nuclei are essentially fixed in space, compared to the electrons.
 - It is then possible to compute the electronic states for a given set of ffixed nuclear positions.
 - This computations is then done many times, once for every set of nuclear positions.
