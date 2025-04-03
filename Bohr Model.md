@@ -18,7 +18,7 @@ r_{n} = n^2 a_{0}
 \quad
 \text{where}\ a_{0} = \frac{4\pi\epsilon_{0}\hbar^2}{me^2}
 $$
-$a_{0}$ is called the *Bohr radius*, which is the radius of the Hydrogen atom in its lowest energy state.
+$a_{0}$ is called the [[Bohr Radius]], which is the radius of the Hydrogen atom in its lowest energy state.
 
 More specifically 
 $$
@@ -26,7 +26,7 @@ $$
 $$
 See [[Fine Structure Constant]]
 
-Emission of lighty occurs when the atom is in an excited state and decays to a lower energy state ($n_u \rightarrow n_{l}$)
+Emission of light occurs when the atom is in an excited state and decays to a lower energy state ($n_u \rightarrow n_{l}$)
 $$
 h \nu = E_{u} - E_{l}
 $$
