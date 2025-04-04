@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "laser",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 152,
-  "scale": 0.05932616709576207,
-  "close": true
+  "scale": 0.16348368591715906,
+  "close": false
 }

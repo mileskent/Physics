@@ -127,19 +127,3 @@ Near a minimum, all curved are approximately quadratic -> Simple Harmonic Oscill
 * $\psi_{0}(x) = \frac{1}{\sqrt{ L }}$
 ![[Pasted image 20250402143302.png|300]]
 
-### Boltzmann Population Factors
-$$
-N_{i} \propto \exp\left( -\frac{E_{i}}{k_{B}T} \right)
-$$
-* $N_{i}$ is the number/population density of molecules in state $i$, i.e. the number of molecules per cubic centimeter
-* $T$ is the tempurature
-* $k_{B} = 1.38 \times 10^{-23}$ is Boltzmann's constant
-
-### Maxwell-Boltzmann Distribution
-$$
-\frac{N_{2}}{N_{1}} = \exp\left( -\frac{E_{2}}{k_{B}T} \right) / \exp\left( -\frac{E_{1}}{k_{B}T} \right) = \exp\left[ -\frac{\Delta E}{k_{B}T}\right]
-$$
-* where $\Delta E = E_{2} - E_{1} = h\nu$
-	* $h \nu$ is the frequency of a photon for the transition
-* In the absence of light and collisions (low T), molecules tend to fall to and remain in the lowest energy state available
-* Light an collision can nexcite molecules into higher-energy states. The higher T is, the more this happens
