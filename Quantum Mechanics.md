@@ -28,6 +28,29 @@ See [[Dirac Notation]]
 Note [[Einstein-Podolsky-Rosen Paradox]]
 
 # Conservation
+| Particle              | Symbol       | Lepton number ($L_e$) | Lepton number ($L_{\mu}$) | Lepton number ($L_τ$) | [[Baryon Conservation\|Baryon]] number ($B$) | [[Strangeness]] number | Electric Charge |
+| --------------------- | ------------ | --------------------- | ------------------------- | --------------------- | -------------------------------------------- | ---------------------- | --------------- |
+| [[Electron]]          | $e^−$        | 1                     | 0                         | 0                     | 0                                            | 0                      | e               |
+| [[Electron Neutrino]] | $\nu_{e}$    | 1                     | 0                         | 0                     | 0                                            | 0                      | 0               |
+| [[Muon]]              | $\mu^-$      | 0                     | 1                         | 0                     | 0                                            | 0                      | -e              |
+| [[Muon Neutrino]]     | $\nu^-$      | 0                     | 1                         | 0                     | 0                                            | 0                      | 0               |
+| [[Tau]]               | $\tau^-$     | 0                     | 0                         | 1                     | 0                                            | 0                      | -1              |
+| [[Tau Neutrino]]      | $\nu_{\tau}$ | 0                     | 0                         | 1                     | 0                                            | 0                      | 0               |
+| Negative [[Pion]]     | $\pi^-$      | 0                     | 0                         | 0                     | 0                                            | 0                      | -e              |
+| Zero [[Pion]]         | $\pi^0$      | 0                     | 0                         | 0                     | 0                                            | 0                      | 0               |
+| Positive [[Pion]]     | $\pi^+$      | 0                     | 0                         | 0                     | 0                                            | 0                      | e               |
+| Positive [[Kaon]]     | $K^+$        | 0                     | 0                         | 0                     | 0                                            | 1                      | e               |
+| Negative kaon         | $K^-$        | 0                     | 0                         | 0                     | 0                                            | –1                     | -e              |
+| [[Proton]]            | $p$          | 0                     | 0                         | 0                     | 1                                            | 0                      | e               |
+| [[Neutron]]           | $n$          | 0                     | 0                         | 0                     | 1                                            | 0                      | 0               |
+| [[Lambda]] zero       | $\Lambda^0$  | 0                     | 0                         | 0                     | 1                                            | –1                     | 0               |
+| Positive [[Sigma]]    | $\Sigma^+$   | 0                     | 0                         | 0                     | 1                                            | –1                     | e               |
+| Negative sigma        | $\Sigma^-$   | 0                     | 0                         | 0                     | 1                                            | –1                     | -e              |
+| [[Xi]] zero           | $\Xi^0$      | 0                     | 0                         | 0                     | 1                                            | –2                     | 0               |
+| Negative xi           | $\Xi^-$      | 0                     | 0                         | 0                     | 1                                            | –2                     | -e              |
+| Negative[[Omega]]     | $\Omega^-$   | 0                     | 0                         | 0                     | 1                                            | –3                     | -e              |
+| [[Photon]]            | $\gamma$     | 0                     | 0                         | 0                     | 0                                            | 0                      | 0               |
+
 [[Baryon Conservation]]
 [[Lepton Conservation]]
 [[Strangeness]]
