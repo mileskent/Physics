@@ -1,0 +1,1 @@
+Massless and has spin 1, mediates the very strong interaction between [[Quark]]s

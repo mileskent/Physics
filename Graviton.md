@@ -1,0 +1,2 @@
+Hypothetical [[Elementary Particle]] that mediates the force of gravitational interaction.
+All other forces are mediated by [[Elementary Boson]]s, so it seems natural to conclude that gravity would too.

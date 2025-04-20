@@ -1,7 +1,7 @@
-### Quantum Mechanical [[Wave]] Functions
+# Quantum Mechanical [[Wave]] Functions
 I understand this mathematically but not conceptually, in terms of the [[Wave Equation]]
 ![[Pasted image 20250330020233.png|500]]
-### Expectation Value
+# Expectation Value
 The **expectation value** $\langle x\rangle$ is the weight average of a given quantity. In general, the expect value of $x$ is 
 $$
 \text{For discrete possibilities: }\quad
@@ -19,7 +19,7 @@ $$
 $$
 See [[Dirac Notation]]
 
-### Uncertainty in Quantum Mechanics
+# Uncertainty in Quantum Mechanics
 * Classical measurement error
 * [[Probability Distribution Functions|Probabilistic quantities]]
 * [[Uncertainty Principle]]
@@ -27,5 +27,9 @@ See [[Dirac Notation]]
 * State is usually unknown
 Note [[Einstein-Podolsky-Rosen Paradox]]
 
-### See also
+# Conservation
+[[Baryon Conservation]]
+[[Lepton Conservation]]
+[[Strangeness]]
+# See also
 [[Entanglement]]

@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true
 }

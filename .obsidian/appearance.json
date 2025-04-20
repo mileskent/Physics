@@ -2,5 +2,8 @@
   "accentColor": "#4d6aff",
   "enabledCssSnippets": [
     "centerimages"
-  ]
+  ],
+  "showRibbon": false,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

@@ -1,0 +1,1 @@
+Also known as [[Nucleon]] number. Number of [[Proton]] and [[Neutron]]s.

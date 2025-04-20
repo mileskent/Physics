@@ -17,6 +17,8 @@ $$
 * $E_{n} = -\frac{E_{0}}{n^2}$, $E_{0} = \frac{\hbar^2}{2\mu a_{0}^2}$
 * Energy only depends on $n$, therefore $l$ and $m_l$ can vary while maintaining a constant energy. This means there are a lot of *degenerate* states!
 
+Also [[Strangeness]]
+Also [[Charm]]
 ### NL Shorthand
 
 | Orbital Angular Momentum Quantum Number $l$ |     |     |     |     |     |     |     |     |     |
