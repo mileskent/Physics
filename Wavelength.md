@@ -1,1 +1,4 @@
-$\lambda$
+$$
+\lambda = \frac{\text{v}}{\nu}
+$$
+
